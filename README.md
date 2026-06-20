@@ -1,5 +1,17 @@
-# 💫 About Me:
-🎓 Computer Science and Engineering undergraduate with a strong interest in Software Engineering, Artificial Intelligence, and Machine Learning.<br><br>💡 Skilled in developing academic and practical projects using Python, React.js, and AI/ML technologies. Passionate about problem-solving, Data Structures & Algorithms, and exploring innovative technologies to build meaningful solutions.<br><br>🌱 Currently enhancing my knowledge in Data Structures & Algorithms, React.js, and Machine Learning<br><br>💻 Developing projects with Python, React, Artificial Intelligence, and Machine Learning<br><br>🚀 Working on AI-powered applications including Spam Email Detection and Consistency AI<br><br>🎯 Aspiring to become a Software Engineer and AI/ML Developer<br><br>⚡ Enthusiastic about Technology, Filmmaking, Creative Storytelling, and Continuous Learning<br>
+# Hi 👋, I'm Thota Sai Sahasra
+
+## 🚀 Computer Science and Engineering Undergraduate | Python Developer | AI & ML Enthusiast
+
+### 💫 About Me
+
+Computer Science and Engineering undergraduate passionate about Software Development, Artificial Intelligence, and Machine Learning. Experienced in building academic and real-world projects using Python, React.js, and AI/ML technologies. Focused on problem-solving, Data Structures & Algorithms, and continuous learning to create impactful technology solutions.
+
+* 🌱 Currently learning Data Structures & Algorithms, React.js, and Machine Learning
+* 💻 Building projects using Python, React, AI, and ML
+* 🚀 Working on AI and Machine Learning Projects
+* 🎯 Goal: Become a Software Engineer and AI Developer
+* ⚡ Passionate about Technology, Problem Solving, and Continuous Learning
+
 
 
 # 💻 Tech Stack:
